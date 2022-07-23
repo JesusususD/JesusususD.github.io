@@ -16,6 +16,10 @@
 大家一般语音会用Discord软件，像是海外版的YY语音。Discord有PC和手机客户端，但PC端玩游戏更方便。Discord 国内的朋友用是要VPN的。
 [Discord进群链接](https://discord.gg/KW3atCYm7A)
 
+
+![Image](./discord.png)
+
+
 **Discord**
 
 
