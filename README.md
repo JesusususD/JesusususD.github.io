@@ -1,8 +1,27 @@
-## Welcome to GitHub Pages
+# 欢迎加入酒店猛狗
 
-You can use the [editor on GitHub](https://github.com/JesusususD/JesusususD.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+这个群旨在让世界各地的海外游子和故国旧交小伙伴们能有一个一起游玩的地方；本文旨在让新入群的同志们能大致了解我们的日常活动。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 目录
+1. [VPN](#vpn)
+2. [Discord](#discord)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+
+## VPN
+国内的小伙伴们很多时候会需要用到VPN或各类加速器。群里大部分人用的是[快连](https://letsvpn.world/)（非广告）VPN，相对质量稳定价格低廉，可以找群内的朋友要邀请码。
+
+## Discord
+大家一般语音会用Discord软件，像是海外版的YY语音。Discord有PC和手机客户端，但PC端玩游戏更方便。Discord 国内的朋友用是要VPN的。
+[Discord进群链接](https://discord.gg/KW3atCYm7A)
+
+**Discord**
+
+
+
+## Third Example
+## [Fourth Example](http://www.fourthexample.com) 
 
 ### Markdown
 
@@ -36,14 +55,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
-
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
